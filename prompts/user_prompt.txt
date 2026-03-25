@@ -1,0 +1,15 @@
+Analyze the following freight shipment and provide an operational recommendation for the dispatch team.
+
+### SHIPMENT DETAILS
+- Route: {origin} to {destination}
+- Transport Mode: {mode}
+- Current Weather: {weather}
+- Traffic Conditions: {traffic}
+
+### AI PIPELINE PREDICTIONS
+- Estimated Time of Arrival (ETA): {eta} hours
+- Delay Risk Classification: {risk}
+- Model Confidence Score: {confidence}%
+
+### REQUIRED OUTPUT
+Provide your 2-3 sentence operational insight and recommendation below:
