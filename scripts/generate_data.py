@@ -88,7 +88,7 @@ columns = [
 ]
 df = pd.DataFrame(data, columns=columns)
 
-#Save to CSV
+#Save 2 CSV
 csv_filename = 'freight_shipping_data.csv'
 df.to_csv(csv_filename, index=False)
 

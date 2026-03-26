@@ -2,6 +2,7 @@ import requests
 import json
 import os
 
+
 #Configuration for local Ollama instance
 OLLAMA_URL = "http://localhost:11434/api/generate"
 MODEL_NAME = "gemma:2b"

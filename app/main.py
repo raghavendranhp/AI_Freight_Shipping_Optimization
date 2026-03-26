@@ -79,6 +79,7 @@ def preprocess_input(data: ShipmentRequest) -> pd.DataFrame:
     return df
 
 
+
 @app.post("/predict-shipment")
 async def predict_shipment(request: ShipmentRequest):
     if not regressor or not classifier:

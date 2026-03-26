@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning and AI intelligence pipeline designed to improve logistics efficiency by predicting freight delays, estimating delivery times (ETA), and classifying shipment risks.
 
-![Live Demo](live_demo.gif)
+![Live Demo](live_demoo.gif)
 
 ## Table of Contents
 1. [Problem Statement](#-problem-statement)
@@ -11,6 +11,7 @@ An end-to-end Machine Learning and AI intelligence pipeline designed to improve 
 4. [Assumptions & Logic](#-assumptions--logic)
 5. [Installation & Setup](#-installation--setup)
 6. [API Usage](#-api-usage)
+
 
 ---
 
